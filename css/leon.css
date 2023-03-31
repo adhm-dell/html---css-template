@@ -193,7 +193,7 @@ header .links ul li:not(:last-child) a {
 .landing {
     background-image: url(../images/pexels-pixabay-355770.jpg);
     background-size: cover;
-    height: calc(100vh - 72px);
+    height: 100vh;
 }
 
 .landing .intro-text {
